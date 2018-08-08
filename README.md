@@ -1,2 +1,2 @@
-# BIOL311
-lab
+#  CURSO BIOL311 BIOINFORMATICA
+Laboratorios 
