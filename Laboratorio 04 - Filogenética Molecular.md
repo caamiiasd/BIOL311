@@ -70,7 +70,8 @@ los grupos filogeneticos  que pueden analizar cambian (taxas), por ejemplo bioNJ
 ![segunda](https://github.com/caamiiasd/BIOL311/blob/master/2%20no%20curada%202.jpg?raw=true)
 
 ##### 8. ¿Cuál es el efecto de no hacer la curación del alineamiento en las filogenias?
-Al no hacer la curación del alineamiento, el arbol cambia fisicamente , y los grupos filogeneticos también.
+Al no hacer la curación del alineamiento, el arbol cambia fisicamente , y los grupos filogeneticos también, ya que  las relaciones entre los organismos  pueden cambiar al hacer o no la curación.
+
 ##### 9. Describe las diferencias entre las filogenias que has estimado :
 Existen variaciones de los grupos grupos monofiléticos, en el largo de las ramas, las raices y los nodos del árbol cambian, ya no son los mismos ancestros comunes, los organismos o especies son distintas, esto es debido a las distintas tecnicas utilizadas para realizar el alineamiento ya que cada tecnica evalua las relaciones de forma distinta. 
 
